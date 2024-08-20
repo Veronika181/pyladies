@@ -21,3 +21,11 @@ The game inspired by Asteroids includes several key features:
 Input Controls: The player uses arrow keys to control the spaceship’s movement and the spacebar to shoot lasers.
 Game Mechanics: The spaceship responds to player inputs, asteroids move across the screen, and lasers destroy them.
 Objective: The player aims to shoot down all the asteroids on the screen while avoiding collisions.
+
+Future Developments:
+To enhance the game, I plan to add several new features, including:
+
+Score Tracking: Implementing a scoring system that tracks how many asteroids the player has destroyed.
+Start Button: Adding a start button to initiate the game.
+Lives: Introducing a lives system where the player starts with three lives. When hit by an asteroid, the spaceship will respawn at the center of the screen with zero velocity, and the player can continue playing until all lives are lost.
+Game Over and Win Screens: Displaying a large "GAME OVER" or "WINNER" message at the end of the game, depending on the outcome.
