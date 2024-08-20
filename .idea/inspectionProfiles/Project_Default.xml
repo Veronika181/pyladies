@@ -1,0 +1,43 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N806" />
+          <option value="N812" />
+          <option value="N803" />
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="print" />
+          <option value="object" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tuple.send_keys" />
+          <option value="logging.fileHandler" />
+          <option value="pytestsDemo.test_fixturesData.pytestDemo" />
+          <option value="chromeOptionsDemo.webdriver" />
+          <option value="list.click" />
+          <option value="PythonTesting.pytestsDemo.test_fixtureDemo.pytestsDemo" />
+          <option value="utilities.BaseClass.self" />
+          <option value="tests.test_mainpage.singleEshop" />
+          <option value="tests.bulk_purchase_card.*" />
+          <option value="Keys" />
+          <option value="main.*" />
+          <option value="pyglet_venv.main.playerShip2_red" />
+          <option value="pyglet_venv.main.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
