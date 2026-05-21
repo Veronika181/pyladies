@@ -29,3 +29,5 @@ Score Tracking: Implementing a scoring system that tracks how many asteroids the
 Start Button: Adding a start button to initiate the game.
 Lives: Introducing a lives system where the player starts with three lives. When hit by an asteroid, the spaceship will respawn at the center of the screen with zero velocity, and the player can continue playing until all lives are lost.
 Game Over and Win Screens: Displaying a large "GAME OVER" or "WINNER" message at the end of the game, depending on the outcome.
+<img width="433" height="437" alt="Pyladies" src="https://github.com/user-attachments/assets/76ec4968-99f0-4a44-8db6-bf1cf14f417b" />
+
